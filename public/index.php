@@ -34,7 +34,7 @@
         <li>17.11.2013. was Saturday</li>
     </ul>
     <hr/>
-    <p>Full source code available on <a href="http://github">Github</a>.</p>
+    <p>Full source code available on <a href="https://github.com/Swader/calendarCalc">Github</a>.</p>
     <hr/>
 <form>
     <label>Day: <input id="day" type="number" min="1" max="22" value="1" /></label>
@@ -59,14 +59,5 @@ $cc->demo();
 <script src="js/plugins.js"></script>
 <script src="js/main.js"></script>
 
-<!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
-<script>
-    (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
-        function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
-        e=o.createElement(i);r=o.getElementsByTagName(i)[0];
-        e.src='//www.google-analytics.com/analytics.js';
-        r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
-    ga('create','UA-XXXXX-X');ga('send','pageview');
-</script>
 </body>
 </html>
