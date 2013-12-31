@@ -23,7 +23,7 @@
 
 <div id="main">
     <h1>Demo: Calculate day of week for imaginary calendar</h1>
-    <p>This is the demo of a SitePoint article in which a calendar calculator is built which deduces the day of the week on a given date.</p>
+    <p>This is the demo of a <a href="http://www.sitepoint.com/php-job-interview-task-day-week-calculation">SitePoint article</a> in which a calendar calculator is built which deduces the day of the week on a given date.</p>
     <p>Edge cases and past are not covered and will fail.</p>
     <p>Calendar rules:</p>
     <ul>
